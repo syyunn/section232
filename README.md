@@ -2,7 +2,10 @@
 
 Model the data structure of Section232 (National Security) Tariff : Time, Institutional & Proclamative source(legal), Targeting HTSUS and Tariff-rates
 
-Section 232 = [Articles on the National Security of the United States under Section 232 of the Trade Expansion Act of 1962, as amended (19 U.S.C. 1862)](https://fas.org/sgp/crs/misc/IF10667.pdf)
+## References
+0. [fas's explanation of Section 232 Tariff](https://fas.org/sgp/crs/misc/IF10667.pdf)
+1. [Articles on the National Security of the United States under Section 232 of the Trade Expansion Act of 1962, as amended (19 U.S.C. 1862)](https://www.govinfo.gov/content/pkg/USCODE-2018-title19/html/USCODE-2018-title19-chap7-subchapII-partIV-sec1862.htm)
+
 
 
 ## Steel
