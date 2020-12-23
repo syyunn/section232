@@ -10,6 +10,8 @@ Mostly, Section 232 is based on the investigation from the Department of Commerc
 
 
 ## Steel
+[DOC's Investigation Report on "Why Deteriorated Steel Industy is Problematic with respect to U.S security](https://www.bis.doc.gov/index.php/documents/steel/2224-the-effect-of-imports-of-steel-on-the-national-security-with-redactions-20180111/file)
+
 
 | Time | Institutional(Legal) Source | Presidential Proclamation Title & Source | HTSUS | Tariff-rates
 | :--- | :---| :---| :---| :---|
