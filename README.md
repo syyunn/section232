@@ -8,6 +8,8 @@ Model the data structure of Section232 (National Security) Tariff : Time, Instit
 
 Mostly, Section 232 is initiated on the investigation of the Department of Commerce, more specifically, Bureau of the Industry and Security thereof. Section 232 DOC submits invetigation report to the President and the President impose tariff on the products interested. Check DOC's chronological investigation reports [here](https://www.bis.doc.gov/index.php/other-areas/office-of-technology-evaluation-ote/section-232-investigations) 
 
+## Enforcement of Section 232 Tariff 
+US finds a source of law that authorize the President to modify the substance of the tariff schedule based on [the Section 604 of the Trade Act 1974 (19 U.S.C. 2483)](https://api.fdsys.gov/link?collection=uscode&title=19&year=mostrecent&section=2483&type=usc&link-type=html)
 
 ## Steel
 [DOC's Investigation Report on Why Shrinking US Steel Industy is Problematic with respect to US security](https://www.bis.doc.gov/index.php/documents/steel/2224-the-effect-of-imports-of-steel-on-the-national-security-with-redactions-20180111/file)
