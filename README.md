@@ -6,7 +6,7 @@ Model the data structure of Section232 (National Security) Tariff : Time, Instit
 0. [CRS's explanation of Section 232 Tariff](https://fas.org/sgp/crs/misc/IF10667.pdf)
 1. [Articles on the National Security of the United States under Section 232 of the Trade Expansion Act of 1962, as amended (19 U.S.C. 1862)](https://www.govinfo.gov/content/pkg/USCODE-2018-title19/html/USCODE-2018-title19-chap7-subchapII-partIV-sec1862.htm)
 
-Mostly, Section 232 is based on the investigation from the Department of Commerce, more specifically, Bureau of the Industry and Security thereof. Section 232 Tariff is iniatiated by the submitted invetigation report to the President fromt he DOC. Check DOC's guide in [here](https://www.bis.doc.gov/index.php/other-areas/office-of-technology-evaluation-ote/section-232-investigations) 
+Mostly, Section 232 is initiated on the investigation of the Department of Commerce, more specifically, Bureau of the Industry and Security thereof. Section 232 DOC submits invetigation report to the President and the President impose tariff on the products interested. Check DOC's chronological investigation reports [here](https://www.bis.doc.gov/index.php/other-areas/office-of-technology-evaluation-ote/section-232-investigations) 
 
 
 ## Steel
