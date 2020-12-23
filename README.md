@@ -3,6 +3,8 @@
 Model the data structure of Section232 (National Security) Tariff : Time, Institutional & Proclamative source(legal), Targeting HTSUS and Tariff-rates
 
 
+## Aluminium
+
 | Time | Institutional(Legal) Source | Presidential Proclamation Title & Source | HTSUS | Tariff-rates
 | :--- | :---| :---| :---| :---|
 | March 8, 2018 | Section 232 | [Proclamation on Adjusting Imports of Aluminum Into the United States (Proclamation 9704)]() | 10 percent ad valorem tariff on aluminium articles | ?
