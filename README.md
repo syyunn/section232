@@ -18,8 +18,7 @@ US finds a source of law that authorize the President to modify the substance of
 | Proclamation date | Institutional(Legal) Source | Presidential Proclamation Title & Source | HTSUS | Tariff-rates | Exceptions | Effectove
 | :--- | :---| :---| :---| :---| :---| :---|
 | March 8, 2018 | Section 232 | [Proclamation on Adjusting Imports of Steel Into the United States (Proclamation 9705)](https://www.federalregister.gov/documents/2018/03/15/2018-05478/adjusting-imports-of-steel-into-the-united-states) | 25 percent ad valorem tariff | Check Annex [here](https://www.govinfo.gov/content/pkg/FR-2018-03-15/pdf/2018-05478.pdf)| Canada and Mexico | March 23, 2018 |
-| March 22, 2018 | Section 232 | [Proclamation on Adjusting Imports of Steel Into the United States (Proclamation 9711)](https://www.federalregister.gov/documents/2018/03/15/2018-05478/adjusting-imports-of-steel-into-the-united-states) | 25 percent ad valorem tariff | Same as previous | Canada, Mexico, Australia, Argentina, South Korea, Brazil, and the member countries of the European Union 
-(March 23, 2018 - May 1, 2018) | March 23, 2018 May 1, 2018 |
+| March 22, 2018 | Section 232 | [Proclamation on Adjusting Imports of Steel Into the United States (Proclamation 9711)](https://www.federalregister.gov/documents/2018/03/15/2018-05478/adjusting-imports-of-steel-into-the-united-states) | 25 percent ad valorem tariff | Same as previous | Canada, Mexico, Australia, Argentina, South Korea, Brazil, and the member countries of the European Union (March 23, 2018 - May 1, 2018) | March 23, 2018 May 1, 2018 |
 
 
 
