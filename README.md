@@ -15,7 +15,7 @@ US finds a source of law that authorize the President to modify the substance of
 [DOC's Investigation Report on Why Shrinking US Steel Industy is Problematic with respect to US security](https://www.bis.doc.gov/index.php/documents/steel/2224-the-effect-of-imports-of-steel-on-the-national-security-with-redactions-20180111/file)
 
 
-| Time | Institutional(Legal) Source | Presidential Proclamation Title & Source | HTSUS | Tariff-rates | Exceptions | Effectove From
+| Proclamation date | Institutional(Legal) Source | Presidential Proclamation Title & Source | HTSUS | Tariff-rates | Exceptions | Effectove
 | :--- | :---| :---| :---| :---| :---| :---|
 | March 8, 2018 | Section 232 | [Proclamation on Adjusting Imports of Steel Into the United States (Proclamation 9705)](https://www.federalregister.gov/documents/2018/03/15/2018-05478/adjusting-imports-of-steel-into-the-united-states) | 25 percent ad valorem tariff | Check Annex [here](https://www.govinfo.gov/content/pkg/FR-2018-03-15/pdf/2018-05478.pdf)| Canada and Mexico | March 23, 2018 |
 
