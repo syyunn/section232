@@ -15,12 +15,9 @@ US finds a source of law that authorize the President to modify the substance of
 [DOC's Investigation Report on Why Shrinking US Steel Industy is Problematic with respect to US security](https://www.bis.doc.gov/index.php/documents/steel/2224-the-effect-of-imports-of-steel-on-the-national-security-with-redactions-20180111/file)
 
 
-| Time | Institutional(Legal) Source | Presidential Proclamation Title & Source | HTSUS | Tariff-rates
-| :--- | :---| :---| :---| :---|
-| March 8, 2018 | Section 232 | [Proclamation on Adjusting Imports of Steel Into the United States (Proclamation 9705)](https://www.federalregister.gov/documents/2018/03/15/2018-05478/adjusting-imports-of-steel-into-the-united-states) | 10 percent ad valorem tariff on aluminium articles | ?
-| May 19, 2019 | Section 232 | [(Proclamation 9893)]() || ?
-| August 6, 2020 | Section 232 | [(Proclamation 10060)]() |re-impose the 10 percent ad valorem on imports of non‑alloyed unwrought aluminum articles from Canada.| ?
-|  October 27, 2020 | Section 232 | [Proclamation on Adjusting Imports of Aluminum Into the United States](https://www.whitehouse.gov/presidential-actions/proclamation-adjusting-imports-aluminum-united-states-102720/) | re-instate (eliminate) the 10 percent ad valorem on imports of non‑alloyed unwrought aluminum articles from Canada. | ?
+| Time | Institutional(Legal) Source | Presidential Proclamation Title & Source | HTSUS | Tariff-rates | Exceptions
+| :--- | :---| :---| :---| :---| :---|
+| March 8, 2018 | Section 232 | [Proclamation on Adjusting Imports of Steel Into the United States (Proclamation 9705)](https://www.federalregister.gov/documents/2018/03/15/2018-05478/adjusting-imports-of-steel-into-the-united-states) | 25 percent ad valorem tariff | 7206.10 through 7216.50, 7216.99 through 7301.10, 7302.10, 7302.40 through 7302.90, and 7304.10 through 7306.90 | Mexico and Canada
 
 
 ## Aluminium
